@@ -27,6 +27,16 @@ This tool helps users explore how changes in parameters such as spot price, vola
 
 ---
 
+![1](https://github.com/user-attachments/assets/02ea3080-c0f4-41c5-84c8-4ac81ef91f3c)
+
+![2](https://github.com/user-attachments/assets/e708bed9-27dc-4863-b0af-9516f4c08472)
+
+![3](https://github.com/user-attachments/assets/70d33d46-f129-48d5-a157-7870f8a174da)
+
+![4](https://github.com/user-attachments/assets/ec102df7-f11e-493f-b75f-53d4d99d81dd)
+
+![5](https://github.com/user-attachments/assets/8760e6cc-0fbf-4816-9dbe-d554813e2b84)
+
 ## 🔧 Dependencies
 
 This project requires the following Python libraries:
